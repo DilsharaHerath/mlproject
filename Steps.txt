@@ -1,0 +1,6 @@
+Steps:
+1. Creating Enviornment - conda create -p venv python==3.8 -y
+2. Activating Env - conda activate venv
+
+Git Pull
+Everything is updated on my side as well.
